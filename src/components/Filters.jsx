@@ -57,10 +57,10 @@ const Filters = () => {
       />
       {/* BUTTONS */}
       <button type="submit" className="btn btn-primary btn-sm">
-        search
+        SEARCH
       </button>
       <Link to="/products" className="btn btn-accent btn-sm">
-        reset
+        RESET
       </Link>
     </Form>
   );

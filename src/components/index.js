@@ -12,3 +12,6 @@ export { default as PaginationContainer } from "./PaginationContainer";
 export { default as Loading } from "./Loading";
 export { default as CartItemsList } from "./CartItemsList";
 export { default as CartTotals } from "./CartTotals";
+export { default as CheckOutForm } from "./CheckOutForm";
+export { default as OrdersList } from "./OrdersList";
+export { default as ComplexPaginationContainer } from "./ComplexPaginationContainer";
